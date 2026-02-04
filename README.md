@@ -1,4 +1,4 @@
-# Hi there, I'm Mr. Z 👋
+# Hi there, I'm Mr. P 👋
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3670A0&center=false&vCenter=false&width=500&lines=Diploma+CS+Student;Learning+Full+Stack+Development;Future+Software+Engineer;9.15+SGPA+Achiever" alt="Typing SVG" />
