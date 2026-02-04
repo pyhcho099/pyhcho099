@@ -1,66 +1,85 @@
-# Hi there, I'm pyhcho099 👋
+# Hi there, I'm Mr. Z 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3670A0&center=false&vCenter=false&width=500&lines=Software+Engineer;Backend+Developer;Game+Developer+(Godot);Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3670A0&center=false&vCenter=false&width=500&lines=Diploma+CS+Student;Learning+Full+Stack+Development;Future+Software+Engineer;9.15+SGPA+Achiever" alt="Typing SVG" />
 </a>
 
-I am a developer focused on building scalable web applications and interactive software. My work bridges the gap between institutional financial logic and interactive game mechanics.
+🎓 **2nd Year Computer Engineering Diploma** @ Government Polytechnic, India  
+📊 **9.15 SGPA** | Building projects while learning fundamentals  
+🌱 Currently mastering: **C | Python | Java | Data Structures**  
+🚀 **Goal:** Software Developer at reputed tech company  
+📈 **Mission:** 100+ GitHub contributions this semester
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Learning & Applying)
 
-**Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Core Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+**Web Basics**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-**Backend & Web**
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
-
-**DevOps & Tools**
+**Tools & Platforms**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-### 🚀 Key Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **ScholarCash** | `Python` `Flask` `SQL` | Full-stack token economy system for institutional financial management. |
-| **PlantScan AI** | `React` `Vertex AI` | AI-powered diagnosis tool for agricultural disease detection. |
-| **The Architect's Fragments** | `Godot` `GDScript` | 2D psychological fighting game with custom state-machine architecture. |
-| **Manga Scraper Automation** | `Python` `Playwright` | Automated ETL pipeline for image data processing. |
+**Currently Exploring**
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 Projects (Building Publicly)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pyhcho099&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyhcho099&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
-</div>
-<br/>
-<div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pyhcho099&theme=tokyonight&hide_border=true" height="150" alt="streak stats" />
-</div>
-
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+| Project | Tech Stack | Status | Description |
+| :--- | :--- | :--- | :--- |
+| **Student Library System** | `C` `File I/O` | 🚧 In Progress | Console-based library management with CRUD operations |
+| **Portfolio Website** | `HTML` `CSS` `JS` | ✅ Live | Personal portfolio hosted on GitHub Pages |
+| **Quiz Application** | `Python` `Flask` | 📋 Planned | Timed quiz platform with score tracking |
+| **Automation Scripts** | `Python` | 🚧 In Progress | 10 utility scripts for productivity |
 
 ---
 
-### 📫 Connect
+### 📈 Learning Journey
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+```text
+Semester 4 Progress:
+├── Data Structures & Algorithms    ████████░░  80%
+├── Object-Oriented Programming     ██████░░░░  60%
+├── Database Management Systems     █████░░░░░  50%
+├── Web Development                 ███████░░░  70%
+└── Python Advanced                 ████████░░  80%
+```
+
+---
+
+📊 GitHub Activity
+
+---
+
+🎯 2024 Goals
+
+- Complete 100+ GitHub contributions
+- Build 5 end-to-end projects
+- Earn 3 professional certifications (AWS/HackerRank/NPTEL)
+- Secure internship at tech company
+- Master Data Structures & Algorithms
+
+---
+
+📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-z-diploma-cs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://pyhcho099.github.io)
+
+---
+
+> 💡 "Every expert was once a beginner. Building in public, learning in progress."
