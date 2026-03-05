@@ -5,7 +5,7 @@
 </a>
 
 🎓 **2nd Year Computer Engineering Diploma** @ Government Polytechnic, India  
-📊 **9.15 SGPA** | Building projects while learning fundamentals  
+Building projects while learning fundamentals  
 🌱 Currently mastering: **C | Python | Java | Data Structures**  
 🚀 **Goal:** Software Developer at reputed tech company  
 📈 **Mission:** 100+ GitHub contributions this semester
